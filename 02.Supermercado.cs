@@ -2,8 +2,7 @@
 la cual tiene un número grabado, los premios se dan bajo la siguiente tabla y solamente tienen 
 derecho los clientes cuya compra supere los $30.
 
----------------------------------------------
-|Bola   |   Premio                          |
+    BOLA		PREMIOS
 ---------------------------------------------
 |	1	|   1 shampoo                       |
 |	2	|   1 paquete de 3 jabones de baño  |
