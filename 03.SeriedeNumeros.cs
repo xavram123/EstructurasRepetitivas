@@ -8,7 +8,7 @@ class serienumeros
         int Num;
         for (Num = 100; Num >= 50; Num = Num - 2)
         {
-			Console.Write(Num + ", ");
-		}
+		Console.Write(Num + ", ");
+	}
     }
 }
